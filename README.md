@@ -73,18 +73,3 @@ infinitywatersite/
 ├── README.md           # Este archivo
 ├── tailwind.config.js  # Configuración de Tailwind CSS
 └── vite.config.js      # Configuración de Vite
-Contribuciones
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-Haz un fork del repositorio.
-
-Crea una nueva rama (git checkout -b feature-xyz).
-
-Haz tus cambios y haz un commit (git commit -am 'Agregando nueva funcionalidad').
-
-Haz un push a tu rama (git push origin feature-xyz).
-
-Abre un pull request para que se revise y se fusione tu contribución.
-
-Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
